@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NeetDodhia
 - 👀 I’m interested in learning anything related to technology.
 - 🌱 I’m currently learning Data Science.
-- 💞️ I’m looking to collaborate on Data Science projects.
+- I’m looking to collaborate on Data Science projects.
 - 📫 How to reach me using my email id : neetdodhia@gmail.com .
 
 <!---
