@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NeetDodhia
+- 👋 Hi, I’m Neet Dodhia,
 - 👀 I’m interested in learning anything related to technology.
 - 🌱 I’m currently learning Data Science.
 - I’m looking to collaborate on Data Science projects.
