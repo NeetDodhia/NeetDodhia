@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Neet Dodhia</h1>
 <h3 align="center">A passionate Data Science enthusiast from India</h3>
 
-- 👀 I’m interested in learning about **the latest tech**
+- 👀 I’m interested in learning about **the latest tech.**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning.**
 
 - 👯 I’m looking to collaborate on [Data Science Projects](https://internship.ineuron.ai/)
 
-- 📫 How to reach me **neetdodhia@gmail.com**
+- 📫 How to reach me **neetdodhia@gmail.com.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
