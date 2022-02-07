@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in learning about **the latest tech.**
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on [Data Science Projects](https://internship.ineuron.ai/)
 
